@@ -4,7 +4,6 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  technical focus is the AI, which searches up to depth 4 with adjustable difficulty.
  Features
 
- 
  • **Bitboard move generation** covering all standard pieces.
  
  • **Minimax search** with adjustable depth (1–4 levels).
@@ -22,17 +21,29 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  • **Efficient performance**: depth 4 search completes in a few seconds without pruning.
  
  Planned Improvements
+ 
  • Add missing chess rules (castling, en passant, underpromotion).
+ 
  • Optimise AI with **Alpha-Beta pruning**.
- • Explore **transposition tables** for faster repeated state lookups. 
+ 
+ • Explore **transposition tables** for faster repeated state lookups.
+ 
  • Further refinement of player-side logic and general polish.
+ 
  Technical Notes
+ 
  • Language: Java.
+ 
  • UI built using **LibGDX**.
+ 
  • This repository is code-focused; it does not include executables.
+ 
  Purpose
+ 
  This project is primarily a portfolio piece to demonstrate coding ability in Java, algorithmic design,
  and problem-solving. It is not intended as a commercial product.
+ 
  Usage
+ 
  The code is provided for reference and learning purposes only. It should not be copied, sold, or
  modified for distribution
