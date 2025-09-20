@@ -20,7 +20,7 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  
  • **Efficient performance**: depth 4 search completes in a few seconds without pruning.
  
- Planned Improvements
+ ### Planned Improvements
  
  • Add missing chess rules (castling, en passant, underpromotion).
  
@@ -30,7 +30,7 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  
  • Further refinement of player-side logic and general polish.
  
- Technical Notes
+ ### Technical Notes
  
  • Language: Java.
  
@@ -38,12 +38,12 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  
  • This repository is code-focused; it does not include executables.
  
- Purpose
+### Purpose
  
  This project is primarily a portfolio piece to demonstrate coding ability in Java, algorithmic design,
  and problem-solving. It is not intended as a commercial product.
  
- Usage
+ ### Usage
  
  The code is provided for reference and learning purposes only. It should not be copied, sold, or
  modified for distribution
