@@ -14,7 +14,7 @@ A Java-based chess engine built using bitboards, Minimax search, and a material/
  Planned Improvements
  • Add missing chess rules (castling, en passant, underpromotion).
  • Optimise AI with **Alpha-Beta pruning**.
- • Explore **transposition tables** for faster repeated state lookups.
+ • Explore **transposition tables** for faster repeated state lookups. 
  • Further refinement of player-side logic and general polish.
  Technical Notes
  • Language: Java.
